@@ -1,0 +1,295 @@
+1439336968.012216: wpa_supplicant v2.4
+1439336968.012589: random: Trying to read entropy from /dev/random
+1439336968.012604: Successfully initialized wpa_supplicant
+1439336968.012614: Initializing interface 'wlan2' conf '/etc/p2p.conf' driver 'nl80211' ctrl_interface 'N/A' bridge 'N/A'
+1439336968.012621: Configuration file '/etc/p2p.conf' -> '/etc/p2p.conf'
+1439336968.012625: Reading configuration file '/etc/p2p.conf'
+1439336968.012825: ctrl_interface='/var/run/wpa_supplicant'
+1439336968.012838: device_name='My P2P Device'
+1439336968.013749: rfkill: initial event: idx=0 type=1 op=0 soft=0 hard=0
+1439336968.013757: rfkill: initial event: idx=1 type=1 op=0 soft=0 hard=0
+1439336968.013761: rfkill: initial event: idx=2 type=2 op=0 soft=0 hard=0
+1439336968.013764: rfkill: initial event: idx=3 type=1 op=0 soft=0 hard=0
+1439336968.013857: nl80211: Supported cipher 00-0f-ac:1
+1439336968.013864: nl80211: Supported cipher 00-0f-ac:5
+1439336968.013867: nl80211: Supported cipher 00-0f-ac:2
+1439336968.013870: nl80211: Supported cipher 00-0f-ac:4
+1439336968.013873: nl80211: Supported cipher 00-0f-ac:6
+1439336968.013887: nl80211: Using driver-based off-channel TX
+1439336968.013898: nl80211: interface wlan2 in phy phy1
+1439336968.013910: nl80211: Set mode ifindex 3 iftype 2 (STATION)
+1439336968.013954: nl80211: Subscribe to mgmt frames with non-AP handle 0x1173b40
+1439336968.013961: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=040a
+1439336968.013978: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.013982: nl80211: Register frame match - hexdump(len=2): 04 0a
+1439336968.013986: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=040b
+1439336968.013996: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.013999: nl80211: Register frame match - hexdump(len=2): 04 0b
+1439336968.014003: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=040c
+1439336968.014011: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014014: nl80211: Register frame match - hexdump(len=2): 04 0c
+1439336968.014018: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=040d
+1439336968.014026: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014030: nl80211: Register frame match - hexdump(len=2): 04 0d
+1439336968.014033: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=090a
+1439336968.014041: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014044: nl80211: Register frame match - hexdump(len=2): 09 0a
+1439336968.014048: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=090b
+1439336968.014056: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014059: nl80211: Register frame match - hexdump(len=2): 09 0b
+1439336968.014063: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=090c
+1439336968.014071: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014074: nl80211: Register frame match - hexdump(len=2): 09 0c
+1439336968.014078: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=090d
+1439336968.014086: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014090: nl80211: Register frame match - hexdump(len=2): 09 0d
+1439336968.014094: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=0409506f9a09
+1439336968.014102: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014105: nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+1439336968.014110: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=7f506f9a09
+1439336968.014124: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014127: nl80211: Register frame match - hexdump(len=5): 7f 50 6f 9a 09
+1439336968.014131: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=06
+1439336968.014139: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014142: nl80211: Register frame match - hexdump(len=1): 06
+1439336968.014146: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=0a07
+1439336968.014154: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014157: nl80211: Register frame match - hexdump(len=2): 0a 07
+1439336968.014160: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=0a11
+1439336968.014168: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439336968.014171: nl80211: Register frame match - hexdump(len=2): 0a 11
+1439336968.014174: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=1101
+1439336968.014182: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=1102
+1439336968.014190: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1173b40 match=0505
+1439336968.014197: nl80211: Failed to register Action frame processing - ignore for now
+1439336968.014209: netlink: Operstate: ifindex=3 linkmode=1 (userspace-control), operstate=5 (IF_OPER_DORMANT)
+1439336968.014564: nl80211: driver param='(null)'
+1439336968.014572: Add interface wlan2 to a new radio phy1
+1439336968.014655: nl80211: Regulatory information - country=00
+1439336968.014662: nl80211: 2402-2472 @ 40 MHz 20 mBm
+1439336968.014666: nl80211: 2457-2482 @ 40 MHz 20 mBm (no IR)
+1439336968.014670: nl80211: 2474-2494 @ 20 MHz 20 mBm (no OFDM) (no IR)
+1439336968.014674: nl80211: 5170-5250 @ 40 MHz 20 mBm (no IR)
+1439336968.014678: nl80211: 5735-5835 @ 40 MHz 20 mBm (no IR)
+1439336968.014688: nl80211: Added 802.11b mode based on 802.11g information
+1439336968.031716: wlan2: Own MAC address: 74:da:38:2b:14:9e
+1439336968.031761: wpa_driver_nl80211_set_key: ifindex=3 (wlan2) alg=0 addr=(nil) key_idx=0 set_tx=0 seq_len=0 key_len=0
+1439336968.031798: wpa_driver_nl80211_set_key: ifindex=3 (wlan2) alg=0 addr=(nil) key_idx=1 set_tx=0 seq_len=0 key_len=0
+1439336968.031812: wpa_driver_nl80211_set_key: ifindex=3 (wlan2) alg=0 addr=(nil) key_idx=2 set_tx=0 seq_len=0 key_len=0
+1439336968.031830: wpa_driver_nl80211_set_key: ifindex=3 (wlan2) alg=0 addr=(nil) key_idx=3 set_tx=0 seq_len=0 key_len=0
+1439336968.031844: wlan2: RSN: flushing PMKID list in the driver
+1439336968.031849: nl80211: Flush PMKIDs
+1439336968.031907: wlan2: State: DISCONNECTED -> INACTIVE
+1439336968.031967: wlan2: WPS: UUID based on MAC address: 1aabadc1-ee88-5876-b989-15b652fee0b4
+1439336968.033938: ENGINE: Loading dynamic engine
+1439336968.034056: ENGINE: Loading dynamic engine
+1439336968.034122: EAPOL: SUPP_PAE entering state DISCONNECTED
+1439336968.034127: EAPOL: Supplicant port status: Unauthorized
+1439336968.034131: nl80211: Skip set_supp_port(unauthorized) while not associated
+1439336968.034133: EAPOL: KEY_RX entering state NO_KEY_RECEIVE
+1439336968.034136: EAPOL: SUPP_BE entering state INITIALIZE
+1439336968.034139: EAP: EAP entering state DISABLED
+1439336968.034153: Using existing control interface directory.
+1439336968.034166: ctrl_iface bind(PF_UNIX) failed: Address already in use
+1439336968.034174: ctrl_iface exists and seems to be in use - cannot override it
+1439336968.034177: Delete '/var/run/wpa_supplicant/wlan2' manually if it is not used anymore
+1439336968.034183: Failed to initialize control interface '/var/run/wpa_supplicant'.
+You may have another wpa_supplicant process already running or the file was
+left by an unclean termination of wpa_supplicant in which case you will need
+to manually remove this file before starting wpa_supplicant again.
+
+1439336968.034188: Failed to add interface wlan2
+1439336968.034204: wlan2: Request to deauthenticate - bssid=00:00:00:00:00:00 pending_bssid=00:00:00:00:00:00 reason=3 state=INACTIVE
+1439336968.034209: wlan2: State: INACTIVE -> DISCONNECTED
+1439336968.034212: nl80211: Set wlan2 operstate 0->0 (DORMANT)
+1439336968.034216: netlink: Operstate: ifindex=3 linkmode=-1 (no change), operstate=5 (IF_OPER_DORMANT)
+1439336968.034225: EAPOL: External notification - portEnabled=0
+1439336968.034229: EAPOL: External notification - portValid=0
+1439336968.051814: wlan2: WPA: Clear old PMK and PTK
+1439336968.051835: wlan2: Cancelling scan request
+1439336968.051839: wlan2: Cancelling authentication timeout
+1439336968.051847: Remove interface wlan2 from radio phy1
+1439336968.051850: Remove radio phy1
+1439336968.051853: nl80211: deinit ifname=wlan2 disabled_11b_rates=0
+1439336968.075642: nl80211: Remove monitor interface: refcount=0
+1439336968.075668: netlink: Operstate: ifindex=3 linkmode=0 (kernel-control), operstate=6 (IF_OPER_UP)
+1439336968.075702: nl80211: Set mode ifindex 3 iftype 2 (STATION)
+1439336968.075850: nl80211: Unsubscribe mgmt frames handle 0x88888888899fb3c9 (mode change)
+1439337003.010994: wpa_supplicant v2.4
+1439337003.011028: random: Trying to read entropy from /dev/random
+1439337003.011036: Successfully initialized wpa_supplicant
+1439337003.011043: Initializing interface 'wlan2' conf '/etc/p2p.conf' driver 'nl80211' ctrl_interface 'N/A' bridge 'N/A'
+1439337003.011050: Configuration file '/etc/p2p.conf' -> '/etc/p2p.conf'
+1439337003.011055: Reading configuration file '/etc/p2p.conf'
+1439337003.011070: ctrl_interface='/var/run/wpa_supplicant'
+1439337003.011076: device_name='My P2P Device'
+1439337003.011513: rfkill: initial event: idx=0 type=1 op=0 soft=0 hard=0
+1439337003.011521: rfkill: initial event: idx=1 type=1 op=0 soft=0 hard=0
+1439337003.011524: rfkill: initial event: idx=2 type=2 op=0 soft=0 hard=0
+1439337003.011528: rfkill: initial event: idx=3 type=1 op=0 soft=0 hard=0
+1439337003.011636: nl80211: Supported cipher 00-0f-ac:1
+1439337003.011645: nl80211: Supported cipher 00-0f-ac:5
+1439337003.011648: nl80211: Supported cipher 00-0f-ac:2
+1439337003.011651: nl80211: Supported cipher 00-0f-ac:4
+1439337003.011654: nl80211: Supported cipher 00-0f-ac:6
+1439337003.011666: nl80211: Using driver-based off-channel TX
+1439337003.011676: nl80211: interface wlan2 in phy phy1
+1439337003.011687: nl80211: Set mode ifindex 3 iftype 2 (STATION)
+1439337003.011700: nl80211: Subscribe to mgmt frames with non-AP handle 0x1d21b40
+1439337003.011706: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=040a
+1439337003.011719: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011723: nl80211: Register frame match - hexdump(len=2): 04 0a
+1439337003.011727: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=040b
+1439337003.011735: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011738: nl80211: Register frame match - hexdump(len=2): 04 0b
+1439337003.011742: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=040c
+1439337003.011749: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011753: nl80211: Register frame match - hexdump(len=2): 04 0c
+1439337003.011756: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=040d
+1439337003.011763: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011766: nl80211: Register frame match - hexdump(len=2): 04 0d
+1439337003.011770: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=090a
+1439337003.011777: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011780: nl80211: Register frame match - hexdump(len=2): 09 0a
+1439337003.011784: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=090b
+1439337003.011799: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011803: nl80211: Register frame match - hexdump(len=2): 09 0b
+1439337003.011806: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=090c
+1439337003.011813: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011815: nl80211: Register frame match - hexdump(len=2): 09 0c
+1439337003.011818: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=090d
+1439337003.011825: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011828: nl80211: Register frame match - hexdump(len=2): 09 0d
+1439337003.011831: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=0409506f9a09
+1439337003.011838: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011841: nl80211: Register frame match - hexdump(len=6): 04 09 50 6f 9a 09
+1439337003.011845: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=7f506f9a09
+1439337003.011852: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011855: nl80211: Register frame match - hexdump(len=5): 7f 50 6f 9a 09
+1439337003.011858: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=06
+1439337003.011865: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011868: nl80211: Register frame match - hexdump(len=1): 06
+1439337003.011871: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=0a07
+1439337003.011877: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011880: nl80211: Register frame match - hexdump(len=2): 0a 07
+1439337003.011883: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=0a11
+1439337003.011890: nl80211: Register frame command failed (type=208): ret=-114 (Operation already in progress)
+1439337003.011893: nl80211: Register frame match - hexdump(len=2): 0a 11
+1439337003.011895: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=1101
+1439337003.011903: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=1102
+1439337003.011910: nl80211: Register frame type=0xd0 (WLAN_FC_STYPE_ACTION) nl_handle=0x1d21b40 match=0505
+1439337003.011917: nl80211: Failed to register Action frame processing - ignore for now
+1439337003.011928: netlink: Operstate: ifindex=3 linkmode=1 (userspace-control), operstate=5 (IF_OPER_DORMANT)
+1439337003.012209: nl80211: driver param='(null)'
+1439337003.012214: Add interface wlan2 to a new radio phy1
+1439337003.012288: nl80211: Regulatory information - country=00
+1439337003.012293: nl80211: 2402-2472 @ 40 MHz 20 mBm
+1439337003.012297: nl80211: 2457-2482 @ 40 MHz 20 mBm (no IR)
+1439337003.012300: nl80211: 2474-2494 @ 20 MHz 20 mBm (no OFDM) (no IR)
+1439337003.012304: nl80211: 5170-5250 @ 40 MHz 20 mBm (no IR)
+1439337003.012307: nl80211: 5735-5835 @ 40 MHz 20 mBm (no IR)
+1439337003.012316: nl80211: Added 802.11b mode based on 802.11g information
+1439337003.031730: wlan2: Own MAC address: 74:da:38:2b:14:9e
+1439337003.031806: wpa_driver_nl80211_set_key: ifindex=3 (wlan2) alg=0 addr=(nil) key_idx=0 set_tx=0 seq_len=0 key_len=0
+1439337003.031863: wpa_driver_nl80211_set_key: ifindex=3 (wlan2) alg=0 addr=(nil) key_idx=1 set_tx=0 seq_len=0 key_len=0
+1439337003.031888: wpa_driver_nl80211_set_key: ifindex=3 (wlan2) alg=0 addr=(nil) key_idx=2 set_tx=0 seq_len=0 key_len=0
+1439337003.031909: wpa_driver_nl80211_set_key: ifindex=3 (wlan2) alg=0 addr=(nil) key_idx=3 set_tx=0 seq_len=0 key_len=0
+1439337003.031927: wlan2: RSN: flushing PMKID list in the driver
+1439337003.031932: nl80211: Flush PMKIDs
+1439337003.031946: wlan2: State: DISCONNECTED -> INACTIVE
+1439337003.032003: wlan2: WPS: UUID based on MAC address: 1aabadc1-ee88-5876-b989-15b652fee0b4
+1439337003.033652: ENGINE: Loading dynamic engine
+1439337003.033750: ENGINE: Loading dynamic engine
+1439337003.033801: EAPOL: SUPP_PAE entering state DISCONNECTED
+1439337003.033804: EAPOL: Supplicant port status: Unauthorized
+1439337003.033807: nl80211: Skip set_supp_port(unauthorized) while not associated
+1439337003.033809: EAPOL: KEY_RX entering state NO_KEY_RECEIVE
+1439337003.033811: EAPOL: SUPP_BE entering state INITIALIZE
+1439337003.033814: EAP: EAP entering state DISABLED
+1439337003.033826: Using existing control interface directory.
+1439337003.033846: P2P: Add operating class 81
+1439337003.033850: P2P: Channels - hexdump(len=11): 01 02 03 04 05 06 07 08 09 0a 0b
+1439337003.034944: P2P: Own listen channel: 81:1
+1439337003.035365: P2P: Random operating channel: 81:6
+1439337003.035805: P2P: initialized
+1439337003.035814: P2P: channels: 81:1,2,3,4,5,6,7,8,9,10,11
+1439337003.035816: P2P: cli_channels:
+1439337003.035820: wlan2: Added interface wlan2
+1439337003.035823: wlan2: State: INACTIVE -> DISCONNECTED
+1439337003.035825: nl80211: Set wlan2 operstate 0->0 (DORMANT)
+1439337003.035828: netlink: Operstate: ifindex=3 linkmode=-1 (no change), operstate=5 (IF_OPER_DORMANT)
+1439337003.035849: random: Got 20/20 bytes from /dev/random
+1439337004.034928: EAPOL: disable timer tick
+1439337010.640647: nl80211: Event message available
+1439337010.640688: nl80211: Ignored event (cmd=33) for foreign interface (ifindex 2 wdev 0x0)
+1439337015.051759: nl80211: Ignore RTM_NEWLINK event for foreign ifindex 2
+1439337015.051798: nl80211: Event message available
+1439337015.051813: nl80211: Ignored event (cmd=34) for foreign interface (ifindex 2 wdev 0x0)
+1439337017.165028: CTRL_IFACE monitor attached /tmp/wpa_ctrl_4302-2\x00
+1439337017.165124: wlan2: Control interface command 'BSS RANGE=ALL MASK=0x2'
+1439337042.640393: nl80211: Event message available
+1439337042.640426: nl80211: Drv Event 33 (NL80211_CMD_TRIGGER_SCAN) received for wlan2
+1439337042.640432: wlan2: nl80211: Scan trigger
+1439337042.640438: wlan2: Event SCAN_STARTED (47) received
+1439337042.640450: wlan2: External program started a scan
+1439337042.640470: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337043.343709: RTM_NEWLINK: ifi_index=3 ifname=wlan2 wext ifi_family=0 ifi_flags=0x1003 ([UP])
+1439337043.343759: nl80211: Event message available
+1439337043.343778: nl80211: Drv Event 34 (NL80211_CMD_NEW_SCAN_RESULTS) received for wlan2
+1439337043.343787: wlan2: nl80211: New scan results available
+1439337043.343793: nl80211: Scan probed for SSID ''
+1439337043.343800: nl80211: Scan included frequencies: 2412 2417 2422 2427 2432 2437 2442 2447 2452 2457 2462
+1439337043.343806: wlan2: Event SCAN_RESULTS (3) received
+1439337043.343812: wlan2: Scan completed in 0.703362 seconds
+1439337043.343871: nl80211: Received scan results (5 BSSes)
+1439337043.343899: wlan2: BSS: Start scan result update 1
+1439337043.343911: wlan2: BSS: Add new id 0 BSSID 48:f8:b3:56:a7:d2 SSID 'YoloSwag'
+1439337043.343940: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337043.343950: wlan2: BSS: Add new id 1 BSSID 00:3a:9a:8d:e0:50 SSID 'Enarxis'
+1439337043.343965: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337043.343973: wlan2: BSS: Add new id 2 BSSID 04:a1:51:38:cf:6c SSID 'NETGEAR21'
+1439337043.343983: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337043.343991: wlan2: BSS: Add new id 3 BSSID d8:9d:67:e6:d9:ce SSID 'HP-Print-CE-Officejet Pro 8600'
+1439337043.344010: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337043.344018: wlan2: BSS: Add new id 4 BSSID 48:f8:b3:56:a7:d3 SSID 'YoloSwag-guest'
+1439337043.344030: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337043.344042: BSS: last_scan_res_used=5/32
+1439337043.344050: wlan2: New scan results available (own=0 ext=1)
+1439337043.344060: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337043.344082: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337043.344088: wlan2: Do not use results from externally requested scan operation for network selection
+1439337082.421261: wlan2: Removing interface wlan2
+1439337082.421296: wlan2: Request to deauthenticate - bssid=00:00:00:00:00:00 pending_bssid=00:00:00:00:00:00 reason=3 state=DISCONNECTED
+1439337082.421302: wlan2: State: DISCONNECTED -> DISCONNECTED
+1439337082.421307: nl80211: Set wlan2 operstate 0->0 (DORMANT)
+1439337082.421311: netlink: Operstate: ifindex=3 linkmode=-1 (no change), operstate=5 (IF_OPER_DORMANT)
+1439337082.421324: EAPOL: External notification - portEnabled=0
+1439337082.421329: EAPOL: External notification - portValid=0
+1439337082.427782: wlan2: WPA: Clear old PMK and PTK
+1439337082.427801: wlan2: BSS: Remove id 0 BSSID 48:f8:b3:56:a7:d2 SSID 'YoloSwag' due to wpa_bss_flush
+1439337082.427820: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337082.427827: wlan2: BSS: Remove id 1 BSSID 00:3a:9a:8d:e0:50 SSID 'Enarxis' due to wpa_bss_flush
+1439337082.427833: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337082.427839: wlan2: BSS: Remove id 2 BSSID 04:a1:51:38:cf:6c SSID 'NETGEAR21' due to wpa_bss_flush
+1439337082.427845: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337082.427850: wlan2: BSS: Remove id 3 BSSID d8:9d:67:e6:d9:ce SSID 'HP-Print-CE-Officejet Pro 8600' due to wpa_bss_flush
+1439337082.427857: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337082.427862: wlan2: BSS: Remove id 4 BSSID 48:f8:b3:56:a7:d3 SSID 'YoloSwag-guest' due to wpa_bss_flush
+1439337082.427873: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337082.427926: wlan2: Cancelling scan request
+1439337082.427932: wlan2: Cancelling authentication timeout
+1439337082.427941: wlan2: P2P: Disable P2P since removing the management interface is being removed
+1439337082.427946: P2P: Stopping find
+1439337082.427951: P2P: Clear timeout (state=IDLE)
+1439337082.427955: P2P: State IDLE -> IDLE
+1439337082.427959: Remove interface wlan2 from radio phy1
+1439337082.427963: Remove radio phy1
+1439337082.427966: nl80211: deinit ifname=wlan2 disabled_11b_rates=0
+1439337082.439761: nl80211: Remove monitor interface: refcount=0
+1439337082.439786: netlink: Operstate: ifindex=3 linkmode=0 (kernel-control), operstate=6 (IF_OPER_UP)
+1439337082.439808: nl80211: Set mode ifindex 3 iftype 2 (STATION)
+1439337082.439838: nl80211: Unsubscribe mgmt frames handle 0x88888888895a93c9 (mode change)
+1439337082.439864: wlan2: CTRL-EVENT-TERMINATING 
+1439337082.439888: CTRL_IFACE monitor sent successfully to /tmp/wpa_ctrl_4302-2\x00
+1439337082.439892: CTRL_IFACE wait for attached monitors to receive messages
+1439337082.540006: Control interface directory not empty - leaving it behind
